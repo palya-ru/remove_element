@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+.element{
+    width: 350px;
+    height: 350px;
+    background-color: aliceblue;
+    border: 10px solid coral;
+}
